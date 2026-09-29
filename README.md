@@ -1,5 +1,5 @@
 # Qualifier for Code Jam 12 Python Discord
-## By mhasanali2010 (discord: ryushison)
+## By mhaxanali
 
 
 ## About the project
